@@ -1,0 +1,2 @@
+error: Query must contain exactly 2 projection to be assignable to a map.
+1 error

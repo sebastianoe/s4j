@@ -1,0 +1,2 @@
+error: When using an SQL query in an ambiguous situation (esp. in potentially overloaded method calls), you need to specify an expected type hint.
+1 error

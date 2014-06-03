@@ -1,0 +1,2 @@
+error: The determined sql query type java.lang.Double cannot be assigned to the expected type int
+1 error

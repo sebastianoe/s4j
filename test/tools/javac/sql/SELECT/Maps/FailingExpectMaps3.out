@@ -1,0 +1,2 @@
+error: Cannot assign query to map as the first column -city- cannot be determined to be unique.
+1 error

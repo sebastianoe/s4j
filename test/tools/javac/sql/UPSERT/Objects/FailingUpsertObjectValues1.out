@@ -1,0 +1,2 @@
+error: Cannot find all id columns in the list of projected columns of the UPSERT.
+1 error

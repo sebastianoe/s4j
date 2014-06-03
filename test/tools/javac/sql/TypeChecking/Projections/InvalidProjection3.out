@@ -1,0 +1,2 @@
+error: The determined sql query type java.lang.String cannot be assigned to the expected type java.lang.Integer
+1 error

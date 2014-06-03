@@ -1,0 +1,34 @@
+{
+  "db":{
+    "liveConnection":{
+      "url":"jdbc:mysql://localhost:3306/ma",
+      "user":"root",
+      "password":""
+    }//,
+    //"name":"ma",
+    // "tables":[
+    //   {
+    //     "name":"customer",
+    //     "columns":[
+    //       {
+    //         "name":"id",
+    //         "type":"Integer",
+    //         "id":true
+    //       },
+    //       {
+    //         "name":"first_name",
+    //         "type":"String"
+    //       },
+    //       {
+    //         "name":"last_name",
+    //         "type":"String"
+    //       },
+    //       {
+    //         "name":"city",
+    //         "type":"String"
+    //       }
+    //     ]
+    //   }
+    // ]
+  }
+}
