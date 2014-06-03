@@ -1,0 +1,9 @@
+.DS_Store
+*.class
+build
+dist
+*.log
+main.tdo
+^dist/
+/nbproject/private/
+^.hgtip
